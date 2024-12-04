@@ -1,6 +1,6 @@
 # STM32 FreeRTOS LED Task with Critical Section
 
-This project demonstrates how to use FreeRTOS with critical sections to eliminate resource contention in an STM32F401 microcontroller. By suspending the scheduler during access to shared resources, this exercise ensures that interference (collisions) between tasks is avoided.
+This exercise demonstrates how to use FreeRTOS with critical sections to eliminate resource contention in an STM32F401 microcontroller. By suspending the scheduler during access to shared resources, this exercise ensures that interference (collisions) between tasks is avoided.
 
 ## Features
 - **RTOS**: FreeRTOS with critical section implementation.
