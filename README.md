@@ -80,7 +80,7 @@ This project demonstrates how to use FreeRTOS with critical sections to eliminat
 
 ---
 ## Circuit Form
-![rangkaian task indicator](https://github.com/user-attachments/assets/2adc1669-8599-47b5-87c8-a6995886f812)
+<img width="500" alt="taskindikator" src="https://github.com/user-attachments/assets/2adc1669-8599-47b5-87c8-a6995886f812">
 
 ## Demo Video
 [task_indicator2](https://github.com/user-attachments/assets/8c15592a-bab7-4cc4-b6ee-1da58e3713b1)
